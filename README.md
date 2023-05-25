@@ -1,1 +1,2 @@
 # GK-Quiz-App
+This project is a GUI based application which uses the Tkinter module. The project is based on a GK Quiz. The player’s username is input in the window by the user after which a series of questions with four options each are displayed to the player. To choose an answer, the player clicks on any of the four option buttons after which the player is taken to the next question. After all the questions have been answered, the total score is displayed to the player. 
